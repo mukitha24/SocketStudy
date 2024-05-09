@@ -52,7 +52,21 @@ Socket programming finds applications in various domains, including web developm
 3.	File Transfer Protocol: Protocols like FTP (File Transfer Protocol) utilize socket programming for transferring files between a client and a server.
 4.	Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
+## PROGRAM
+## CLIENT
 
+![image](https://github.com/mukitha24/SocketStudy/assets/154068225/8f8b4ee7-c54d-42b6-9089-ff2558947362)
+
+## SERVER
+
+![image](https://github.com/mukitha24/SocketStudy/assets/154068225/d291b8a4-818f-4615-9db9-f9b619298802)
+
+## OUTPUT
+## CLIENT
+![image](https://github.com/mukitha24/SocketStudy/assets/154068225/c10af4e0-6a94-4700-8188-3984c62274be)
+
+## SERVER
+![image](https://github.com/mukitha24/SocketStudy/assets/154068225/5c821702-602b-472e-9055-25014a948c54)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
